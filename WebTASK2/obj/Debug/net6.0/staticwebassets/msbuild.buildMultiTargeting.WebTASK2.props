@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebTASK2.props" />
+</Project>
